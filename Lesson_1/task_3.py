@@ -19,4 +19,4 @@ while num == 100:
         print(f"{num} процента")
     else:
         print(f"{num} процентов")
-        num += 1
+        \\num += 1
