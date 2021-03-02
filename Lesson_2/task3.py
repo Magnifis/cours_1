@@ -10,4 +10,3 @@ for b in list_a:
     separated_list = b.split()
     name = separated_list[-1]
     print("Привет," + ' ' + name.title() + "!")
-
